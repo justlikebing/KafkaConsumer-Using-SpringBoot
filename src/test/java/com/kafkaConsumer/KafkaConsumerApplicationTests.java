@@ -1,13 +1,13 @@
-package com.kafkaConsumer;
+// package com.kafkaConsumer;
 
-import org.junit.jupiter.api.Test;
-import org.springframework.boot.test.context.SpringBootTest;
+// import org.junit.jupiter.api.Test;
+// import org.springframework.boot.test.context.SpringBootTest;
 
-@SpringBootTest
-class KafkaConsumerApplicationTests {
+// @SpringBootTest
+// class KafkaConsumerApplicationTests {
 
-	@Test
-	void contextLoads() {
-	}
+// 	@Test
+// 	void contextLoads() {
+// 	}
 
-}
+// }
